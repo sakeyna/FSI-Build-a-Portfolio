@@ -1,6 +1,5 @@
 body {
     background-image: url(https://i.pinimg.com/736x/34/85/39/348539454dc696da55fe731dbea835ad.jpg);
-    border-style: inset;
 }
 h1 {
     color: black;
@@ -21,3 +20,9 @@ p {
     font-family: monospace;
     font-size: medium;
 }
+img {
+    border-style: solid;
+    border-color: rgb(42, 74, 42);
+}
+.pointer {cursor:pointer}
+
