@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/34/85/39/348539454dc696da55fe731dbea835ad.jpg);
+}
+h1 {
+    color: black;
+    text-align: left;
+    font-family: monospace;
+}
+h2 {
+    color: black;
+    text-align: left;
+    font-family: monospace;
+}
+h3 {
+    color: black;
+    text-align: left;
+    font-family: monospace;
+}
+p {
+    font-family: monospace;
+    font-size: medium;
+}
