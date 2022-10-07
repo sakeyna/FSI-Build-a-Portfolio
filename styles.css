@@ -21,8 +21,7 @@ p {
     font-size: medium;
 }
 img {
-    border-style: solid;
-    border-color: rgb(42, 74, 42);
+    border-radius: 8px;
 }
 .pointer {cursor:pointer}
 
